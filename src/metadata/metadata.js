@@ -1,14 +1,14 @@
 module.exports = {
   name: "Tuan Nguyen",
   title: "Fullstack Developer",
-  baseUrl: "https://tuannguyen.scrapnode.com/",
+  baseUrl: "https://tuannguyen.kanthorlabs.com/",
   facts: {
     Residence:
       '<a href="#"><i class="fa fa-home fact-icon"></i>Can Tho, Viet Nam</a>',
     LinkedIn:
       '<a href="https://www.linkedin.com/in/tuannguyen1993/"><i class="fab fa-linkedin fact-icon"></i>tuannguyen1993</a>',
     GitHub:
-      '<a href="https://github.com/scrapnode"><i class="fab fa-github fact-icon"></i>scrapnode</a>',
+      '<a href="https://github.com/kanthorlabs"><i class="fab fa-github fact-icon"></i>kanthorlabs</a>',
     Email:
       '<a href="mailto:tuan.nguyen930708@gmail.com">tuan.nguyen930708@gmail.com</a>',
   },
@@ -37,9 +37,9 @@ Becoming a Principal Engineer at a rapidly growing startup has been one of the m
 
 Key Responsibilities:
 
-* Orchestrating and refining operational workflows to seamlessly accommodate constantly changing demands ([Gitflow at a startup](https://blog.scrapnode.com/posts/gitlfow-at-a-startup/))
-* Offering guidance to fellow engineers while assisting them in enhancing their design prowess ([The art of Export](https://blog.scrapnode.com/posts/the-art-of-export/), [The art of Import](https://blog.scrapnode.com/posts/the-art-of-import/))
-* Delving into performance bottlenecks, embracing the lessons derived from errors, and disseminating these insights to our team members through tech talks and presentations ([When index scan is slower than full table scan](https://blog.scrapnode.com/posts/when-index-scan-is-slower-than-full-table-scan/), [The ID chosen](https://blog.scrapnode.com/posts/the-id-chosen/))
+* Orchestrating and refining operational workflows to seamlessly accommodate constantly changing demands ([Gitflow at a startup](https://blog.kanthorlabs.com/posts/gitlfow-at-a-startup/))
+* Offering guidance to fellow engineers while assisting them in enhancing their design prowess ([The art of Export](https://blog.kanthorlabs.com/posts/the-art-of-export/), [The art of Import](https://blog.kanthorlabs.com/posts/the-art-of-import/))
+* Delving into performance bottlenecks, embracing the lessons derived from errors, and disseminating these insights to our team members through tech talks and presentations ([When index scan is slower than full table scan](https://blog.kanthorlabs.com/posts/when-index-scan-is-slower-than-full-table-scan/), [The ID chosen](https://blog.kanthorlabs.com/posts/the-id-chosen/))
 
 Achievements
 
@@ -110,7 +110,7 @@ Achievements:
   ],
   others: [
     {
-      contents: `Conduct research, design, and implement my personal projects: <a href="https://github.com/scrapnode" target="_blank">ScrapNode</a>`,
+      contents: `Conduct research, design, and implement my personal projects: <a href="https://github.com/kanthorlabs" target="_blank">kanthorlabs</a>`,
     },
   ],
 };

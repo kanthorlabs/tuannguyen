@@ -1,5 +1,5 @@
 {
-  "name": "@scrapnode/tuannguyen",
+  "name": "@kanthorlabs/tuannguyen",
   "description": "The Curriculum Vitae Project",
   "scripts": {
     "build": "node src/build.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scrapnode/tuannguyen.git"
+    "url": "git+https://github.com/kanthorlabs/tuannguyen.git"
   },
   "keywords": [
     "cv",
@@ -18,9 +18,9 @@
   "author": "Tuan Nguyen <tuannguyen930708@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/scrapnode/tuannguyen/issues"
+    "url": "https://github.com/kanthorlabs/tuannguyen/issues"
   },
-  "homepage": "https://github.com/scrapnode/tuannguyen#readme",
+  "homepage": "https://github.com/kanthorlabs/tuannguyen#readme",
   "devDependencies": {
     "chokidar-cli": "^2.1.0",
     "fs-extra": "^9.0.1",
