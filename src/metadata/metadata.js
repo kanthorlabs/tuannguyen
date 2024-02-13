@@ -49,30 +49,6 @@ Achievements
 `,
     },
     {
-      company: "2359Media",
-      link: "https://www.2359.co/",
-      location: "HCM",
-      title: "Software Engineer",
-      period: "Apr 2019 - Apr 2021",
-      skills: ["NodeJS", "ReactJS", "Kubenetes", "AWS", "GCP"],
-      contents: `
-As a Senior Engineer at the top enterprise Chatbot in Singapore, I was responsible for serving several big clients, including Melco Resorts, Bank of Singapore, and Sacombank in Vietnam.
-
-Key Responsibilities:
-
-* Maintaining the DevOps workflow, which included K8S clusters, CI/CD pipelines, testing setup, and more.
-* Designing and implementing MVP projects for pre-sales actions.
-* Sharing my knowledge and expertise with team members on coding, testing, and problem-solving.
-
-Achievements:
-
-* Implementing a GitOps workflow that streamlined deployment and release processes by using Git as a source of truth and tools such as FluxCD and GitHub Actions.
-* Designing and developing a Voice Bot Platform using GCP, which was deployed to K8S clusters on Azure.
-* Ensuring the high quality of our code by implementing thorough testing, with a minimum code coverage requirement of 80%.
-* Hosting technical talks on topics such as designing an ETL pipeline for creating reports in Google Data Studio, deploying the ELK stacks for log monitoring, and coding tricks and tips.
-`,
-    },
-    {
       company: "Boomerang.Isentia",
       link: "https://www.isentia.com/",
       location: "HCM",
@@ -97,7 +73,11 @@ Achievements:
 `,
     },
   ],
-  insights: [
+  histories: [
+    {
+      period: "Apr 2019 &ndash; Apr 2021",
+      contents: `As a Senior Engineer at <a href="https://www.2359.co/" target="_blank">2359Media</a>, a top enterprise Chatbot in Singapore, I served prominent clients like Melco Resorts, Bank of Singapore, and Sacombank in Vietnam. My role involved maintaining DevOps workflows, designing MVP projects for pre-sales, and sharing expertise with team members. Notable achievements include implementing a GitOps workflow, developing a Voice Bot Platform on GCP deployed to K8S clusters, ensuring code quality with rigorous testing, and hosting technical talks on various topics`,
+    },
     {
       period: "2016 &ndash; 2018",
       contents: `Managed and maintained an e-commerce platform based on the Yii framework (PHP) at <a href="https://tagrem.com/index.html" target="_blank">Tagrem Corp</a> for <a href="https://www.serta.com/" target="_blank">Mattresses by Serta</a>.
