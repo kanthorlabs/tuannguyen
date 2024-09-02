@@ -45,7 +45,7 @@ Achievements
 
 * Pioneering the design and implementation of a scalable and highly available webhook system, capable of handling over **2 million events daily** and sustaining **2000 events per second at peak-time** for a minimum of three hours.
 * Collaborating with a team to conceptualize and construct an efficient and dependable data pipeline tasked with transforming data sourced from our primary databases (MySQL and PostgreSQL) into ElasticSearch, enabling responsive full-text search capabilities.
-* Executing cost optimization strategies within the AWS cloud environment, resulting in a **20% monthly cost reduction**, a contribution that significantly bolstered Upmesh's financial performance.
+* By executing cost optimization strategies within the AWS cloud environment, we achieved a **$37,000 annual cost reduction**, significantly enhancing Upmesh's financial performance. You can find more details at my blog post [Saving $37K annually on our AWS bill](https://blog.kanthorlabs.com/posts/saving-37k-annually-on-our-aws-bill/)
 `,
     },
     {
