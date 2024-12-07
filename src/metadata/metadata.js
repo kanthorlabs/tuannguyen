@@ -31,7 +31,21 @@ module.exports = {
       location: "Singapore",
       title: "Principal Engineer",
       period: "Apr 2019 - Now",
-      skills: [".NET", "Golang", "ELK Stack", "Kubenetes", "AWS"],
+      skills: [
+        ".NET",
+        "NodeJS",
+        "JavaScript",
+        "Golang",
+        "Elastic Stack (ELK)",
+        "Kubenetes",
+        "AWS",
+        "nats.io",
+        "RabbitMQ",
+        "MySQL",
+        "PostgreSQL",
+        "DevOps",
+        "Temporal",
+      ],
       contents: `
 Becoming a Principal Engineer at a rapidly growing startup has been one of the most enriching experiences I've ever had. During my tenure at Upmesh, I had the privilege of collaborating with exceptional colleagues, engaging in strategic planning, and addressing the evolving requirements essential for meeting our business objectives.
 
