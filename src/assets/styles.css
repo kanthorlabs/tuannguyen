@@ -83,8 +83,8 @@ a {
 
 @media print {
     .col-print-1 {
-        flex: 0 0 8.333333%;
-        max-width: 8.333333%;
+        flex: 0 0 12%;
+        max-width: 12%;
     }
 
     .col-print-6 {
