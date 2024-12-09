@@ -29,7 +29,7 @@ module.exports = {
       link: "https://upmesh.io/sg",
       location: "Singapore",
       title: "Principal Engineer",
-      period: "Apr 2019 - Now",
+      period: "Apr 2021 - Now",
       skills: [
         ".NET",
         "NodeJS",
