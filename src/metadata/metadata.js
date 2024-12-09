@@ -13,7 +13,8 @@ module.exports = {
       '<a href="mailto:tuan.nguyen930708@gmail.com">tuan.nguyen930708@gmail.com</a>',
   },
   skills: [
-    ["JavaScript/TypeScript", "+++"],
+    ["JavaScript", "+++"],
+    ["TypeScript", "+++"],
     ["NodeJS", "+++"],
     ["Golang", "+++"],
     ["CI/CD", "+++"],
