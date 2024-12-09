@@ -13,17 +13,19 @@ module.exports = {
       '<a href="mailto:tuan.nguyen930708@gmail.com">tuan.nguyen930708@gmail.com</a>',
   },
   skills: [
-    ["JS/TS", "+++"],
+    ["JavaScript/TypeScript", "+++"],
+    ["NodeJS", "+++"],
     ["Golang", "+++"],
     ["CI/CD", "+++"],
-    ["SQL", "+++"],
+    ["PostgreSQL", "+++"],
+    ["MySQL", "+++"],
     ["Kubernetes", "++"],
     ["ELK", "++"],
     ["AWS", "++"],
     ["GCP", "+"],
   ],
   summary:
-    "As a seasoned backend and devops developer with eight years of experience, I am highly adaptable and able to undertake a range of roles within a team. My primary aspirations are to conceive of and build large-scale systems, steer teams to success, and evolve into a dynamic mentor. I am driven by a passion for continuous learning and self-improvement, and maintain a voracious appetite for acquiring new knowledge on a daily basis.",
+    "A seasoned Backend and DevOps developer with 8+ years of experience in building and scaling large systems, leading technical teams, and delivering impactful solutions. Passionate about mentoring, continuous learning, and leveraging technology to achieve business objectives.",
   positions: [
     {
       company: "Upmesh",
